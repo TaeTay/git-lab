@@ -1,60 +1,25 @@
 Answer 1: git version 2.34.1 
+
 Answer 2: "Taylor Thomas", tt680321@ohio.edu
+
 Answer 3: Shows all the common commands in the terminal and tells how they work
 
- 
+Answer 4: Says that answers.md and README.md are modified but not ready to be committed
 
-Answer 4: Says I'm on branch master, no commits yet, untracked files include
+Answer 5: README.md changes are ready to be committed, answers.md is not staged for commit still
 
-README.md
+Answer 6: Both files are ready to be committed
 
-Answers.md
+Answers 7:Nothing to commit, working tree clean
 
-And that nothing added to commit but untracked files present
+Answer 8: Hash value, Head -> main, Authot:Taylor Thomas <tt680321@ohio.edu> Date: Wed Sep 6 16:38:01 2023, Initial commit
 
- 
+Answer 9: My branch is up to date with 'origin/main'
 
-Answer 5: On branch master, no commits ygitet, changes to be committed:
+Answer 10: The changes I made on git hub are not on the file on the computer
 
-New file: README.md
+Answer 11: Error, it failed to push because of changes made on the repository
 
-Untracked files:
+Answer 12: Changes made on the repository resulting in error are now showing on my local file
 
-Answers.md
-
- 
-
-Answer 6: Both files ready to be committed, still on branch master, with no commits
-
- 
-
-Answer 7: Nothing to commit, working tree clean
-
- 
-
-Answer 8: commit (hash value) (HEAD -> master),
-
-Author: Taylor Thomas <tt680321@ohio.edu>
-
-Date: Fri Sep 9 14:20:55 2022 -0400
-
- 
-
-Answer 9: On branch main, your branch is up to date with 'origin/main'
-
- 
-
-Answer 10: Changes I made online were not in local copy
-
- 
-
-Answer 11: There was an error
-
- 
-
-Answer 12: The changes were in the local copy, now
-
-Answer 13: 3 dots, a git, gitignore, and README.md
-
-Answer 14:
-
+Answer 13: Parent and current directories, git-lab-2
